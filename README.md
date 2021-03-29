@@ -50,7 +50,7 @@ I have a folder name web <br>
 ```sh
 py myCred.py -hd web
 ```
-Now when you refresh, the folder is gone!(its hidden)!<br>
+Now when you refresh, the folder is gone!(its hidden)<br>
 It will not be visible even when hidden items is on:<br>
 
 ![image](https://user-images.githubusercontent.com/55245100/112861387-5f387700-90d2-11eb-96cd-85b1518b20ba.png)
