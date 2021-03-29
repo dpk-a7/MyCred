@@ -33,11 +33,11 @@ You are Ready for protecting your folder!!<br>
 <br>
 > (py or python)<br>
 > py myCred.py -h : Help<br>
-> py myCred.py -hd <folder name> : Hide and Encrypt the folder<br>
-> py myCred.py -uh <folder name> : Unhide and Decrypt the folder<br>
-> py myCred.py -ls <folder name> : List data present in the folder<br>
-> py myCred.py -m <folder name>  : Make new folder<br>
-> py myCred.py -r <folder name>  : Remove folder completely<br>
+> py myCred.py -hd folder_name : Hide and Encrypt the folder<br>
+> py myCred.py -uh folder_name : Unhide and Decrypt the folder<br>
+> py myCred.py -ls folder_name : List data present in the folder<br>
+> py myCred.py -m folder_name  : Make new folder<br>
+> py myCred.py -r folder_name  : Remove folder completely<br>
 
 
 ## Example 
