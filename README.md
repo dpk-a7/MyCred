@@ -26,7 +26,7 @@ This will create a key:<br>
 ![image](https://user-images.githubusercontent.com/55245100/112860213-3ebbed00-90d1-11eb-915a-92856e097965.png)
 <br>
 And,<br>
-You are Ready for protecting your folder!!<br>
+You are ready to protect your folder!!<br>
 
 ## Commands
 ![image](https://user-images.githubusercontent.com/55245100/112858865-e9331080-90cf-11eb-8cf8-55750fd5ece1.png)
