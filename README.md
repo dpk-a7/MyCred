@@ -59,29 +59,30 @@ And is accessible from search bar:<br>
 but all files are Encrypted! :)<br>
 
 ![image](https://user-images.githubusercontent.com/55245100/112861599-8ee77f00-90d2-11eb-8e7f-888d305f4466.png)
-<br>
+
+
 ### List files present in hidden folder:
 ```sh
 py myCred.py -ls web
 ```
-<br>
+
 ![image](https://user-images.githubusercontent.com/55245100/112862188-23ea7800-90d3-11eb-976c-028346a44b26.png)
-<br>
+
 ### Unhide and Decrypt:
 ```sh
 py myCred.py -hd web
 ```
-<br>
+
 ### Remove folder:
 ```sh
 py myCred.py -r web
 ```
-<br>
+
 ### Make New folder:
 ```sh
 py myCred.py -m newfolder
 ```
-<br>
+
 > Note: `myCread.py` may not work for other OS as it uses window's command to hide and unhide folder.
 You can change the command in `myCred.py`
 
