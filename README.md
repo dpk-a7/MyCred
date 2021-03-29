@@ -83,7 +83,7 @@ py myCred.py -r web
 py myCred.py -m newfolder
 ```
 
-> Note: `myCread.py` may not work for other OS as it uses window's command to hide and unhide folder.
+> Note: `myCread.py` may not work for other OS as it uses window's command to hide and unhide folder.<br>
 You can change the command in `myCred.py`
 
 ## License
