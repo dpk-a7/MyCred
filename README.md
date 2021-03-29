@@ -24,6 +24,7 @@ To get strarted:
 ```
 This will create a key:<br>
 ![image](https://user-images.githubusercontent.com/55245100/112860213-3ebbed00-90d1-11eb-915a-92856e097965.png)
+<br>
 And,<br>
 You are Ready for protecting your folder<br>
 
@@ -41,8 +42,9 @@ You are Ready for protecting your folder<br>
 <br>
 ## Example 
 I have a folder name web <br>
-![image](https://user-images.githubusercontent.com/55245100/112860759-bb4ecb80-90d1-11eb-824d-cff944c661ff.png)<br>
-![image](https://user-images.githubusercontent.com/55245100/112860902-e6391f80-90d1-11eb-9f47-02478d76ceb0.png)<br>
+![image](https://user-images.githubusercontent.com/55245100/112860759-bb4ecb80-90d1-11eb-824d-cff944c661ff.png)
+<br>
+![image](https://user-images.githubusercontent.com/55245100/112860902-e6391f80-90d1-11eb-9f47-02478d76ceb0.png)
 ### Hide and encrypt:
 ```sh
 py myCred.py -hd web
