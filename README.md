@@ -56,10 +56,9 @@ It will not be visible even when hidden items is on:<br>
 ![image](https://user-images.githubusercontent.com/55245100/112861387-5f387700-90d2-11eb-96cd-85b1518b20ba.png)
 <br>
 It is accessible from search bar:<br>
-but all files are Encrypted! :)<br>
 
 ![image](https://user-images.githubusercontent.com/55245100/112861599-8ee77f00-90d2-11eb-8e7f-888d305f4466.png)
-
+but all files are Encrypted! :)
 
 ### List files present in hidden folder:
 ```sh
