@@ -1,19 +1,4 @@
 # MyCred
->
-### To Get Started:<br>
-step 1: install the packages present in requirements.txt<br>
-step 2: Create a Key for Encryption and Decrytion <br>
-> py keyGenerator.py
-You are Ready for protecting your folder!<br>
-![image](https://user-images.githubusercontent.com/55245100/112858865-e9331080-90cf-11eb-8cf8-55750fd5ece1.png)
-![image](https://user-images.githubusercontent.com/55245100/112860213-3ebbed00-90d1-11eb-915a-92856e097965.png)
-![image](https://user-images.githubusercontent.com/55245100/112860759-bb4ecb80-90d1-11eb-824d-cff944c661ff.png)
-![image](https://user-images.githubusercontent.com/55245100/112860902-e6391f80-90d1-11eb-9f47-02478d76ceb0.png)
-![image](https://user-images.githubusercontent.com/55245100/112861387-5f387700-90d2-11eb-96cd-85b1518b20ba.png)
-
-![image](https://user-images.githubusercontent.com/55245100/112861599-8ee77f00-90d2-11eb-8e7f-888d305f4466.png)
-
-# MyCred
 ## A Credential folder protector
 
 
@@ -92,4 +77,3 @@ You can change the command in `myCred.py`
 MIT
 
 **Free Project, Hell Yeah!**
-
