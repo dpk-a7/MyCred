@@ -70,7 +70,7 @@ py myCred.py -ls web
 
 ### Unhide and Decrypt:
 ```sh
-py myCred.py -hd web
+py myCred.py -uh web
 ```
 
 ### Remove folder:
