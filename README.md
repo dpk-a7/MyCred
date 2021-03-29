@@ -17,7 +17,7 @@ A program to hide and unhide your important credential folder completely plus en
 - Remove Folder completely! without moving to recycle bin.
 
 To get strarted:
-> Step 1 : Install the packages present in requirements.txt
+> Step 1 : Install the packages present in requirements.txt<br>
 > Step 2 : Create a Key for Encryption and Decrytion by running the following command below
 ```sh
    py keyGenerator.py
