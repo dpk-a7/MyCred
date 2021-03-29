@@ -64,15 +64,22 @@ but all files are Encrypted! :)<br>
 ```sh
 py myCred.py -ls web
 ```<br>
+
 ![image](https://user-images.githubusercontent.com/55245100/112862188-23ea7800-90d3-11eb-976c-028346a44b26.png)
 <br>
+
 ### Unhide and Decrypt:
 ```sh
 py myCred.py -hd web
 ```
+<br>
 ### Remove folder:
 ```sh
 py myCred.py -r web
+```
+### Make New folder:
+```sh
+py myCred.py -m newfolder
 ```
 
 > Note: `myCread.py` may not work for other OS as it uses window's command to hide and unhide folder.
