@@ -39,7 +39,7 @@ You are Ready for protecting your folder!!<br>
 > py myCred.py -m <folder name>  : Make new folder<br>
 > py myCred.py -r <folder name>  : Remove folder completely<br>
 
-<br>
+
 ## Example 
 I have a folder name web <br>
 
