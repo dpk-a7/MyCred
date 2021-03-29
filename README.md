@@ -42,19 +42,22 @@ You are Ready for protecting your folder<br>
 <br>
 ## Example 
 I have a folder name web <br>
+
 ![image](https://user-images.githubusercontent.com/55245100/112860759-bb4ecb80-90d1-11eb-824d-cff944c661ff.png)
-<br>
 ![image](https://user-images.githubusercontent.com/55245100/112860902-e6391f80-90d1-11eb-9f47-02478d76ceb0.png)
+
 ### Hide and encrypt:
 ```sh
 py myCred.py -hd web
 ```
 Now when you refresh, the folder is gone!(its hidden)!<br>
 It will not be visible even when view hidden is on:<br>
+
 ![image](https://user-images.githubusercontent.com/55245100/112861387-5f387700-90d2-11eb-96cd-85b1518b20ba.png)
 <br>
 And is accessible from search bar:<br>
 but all files are Encrypted! :)<br>
+
 ![image](https://user-images.githubusercontent.com/55245100/112861599-8ee77f00-90d2-11eb-8e7f-888d305f4466.png)
 <br>
 ### List files present in hidden folder:
