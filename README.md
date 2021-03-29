@@ -51,7 +51,7 @@ I have a folder name web <br>
 py myCred.py -hd web
 ```
 Now when you refresh, the folder is gone!(its hidden)!<br>
-It will not be visible even when view hidden is on:<br>
+It will not be visible even when hidden items is on:<br>
 
 ![image](https://user-images.githubusercontent.com/55245100/112861387-5f387700-90d2-11eb-96cd-85b1518b20ba.png)
 <br>
@@ -63,11 +63,10 @@ but all files are Encrypted! :)<br>
 ### List files present in hidden folder:
 ```sh
 py myCred.py -ls web
-```<br>
-
+```
+<br>
 ![image](https://user-images.githubusercontent.com/55245100/112862188-23ea7800-90d3-11eb-976c-028346a44b26.png)
 <br>
-
 ### Unhide and Decrypt:
 ```sh
 py myCred.py -hd web
@@ -77,11 +76,12 @@ py myCred.py -hd web
 ```sh
 py myCred.py -r web
 ```
+<br>
 ### Make New folder:
 ```sh
 py myCred.py -m newfolder
 ```
-
+<br>
 > Note: `myCread.py` may not work for other OS as it uses window's command to hide and unhide folder.
 You can change the command in `myCred.py`
 
