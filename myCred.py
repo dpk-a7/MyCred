@@ -47,10 +47,13 @@ def fld(name : str)-> "Name of the folder":
 	elif name.r:
 		try:
 			if name.r in os.listdir():
-				os.system(f"rmdir \s {name.r}")
-				print(f"{name.r} successfully removed!")
+				os.system(f"rmdir /s {name.r}")
+				if name.r not in [i for i in os.listdir()]:
+					print(f"{name.r} successfully removed!")
+				else:
+					print(f"{name.r}-> Remove operation cancelled!")
 			else:
-				print("folder not found!")
+				print(f"{name.r} not found!")
 		except Exception:
 			print("Error Occured while executing the command!")
 	elif name.hd:
@@ -60,7 +63,7 @@ def fld(name : str)-> "Name of the folder":
 				os.system(f"Attrib +h +s +r {name.hd}")
 				print(f"{name.hd} hide successful!")
 			else:
-				print("folder not found!")
+				print(f"{name.hd} not found!")
 		except Exception:
 			print("Error Occured while executing the command!")
 	elif name.uh:
@@ -70,7 +73,7 @@ def fld(name : str)-> "Name of the folder":
 				decryptor_(name.uh)
 				print(f"{name.uh} unhide successful!")
 			else:
-				print("folder not found!")
+				print(f"{name.uh} not found!")
 		except Exception:
 			print("Error Occured while executing the command")
 	elif name.ls == "this":
