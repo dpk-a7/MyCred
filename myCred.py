@@ -81,8 +81,11 @@ def fld(name : str)-> "Name of the folder":
 			print(i)
 	elif name.ls:
 		try:
-			for i in os.listdir(f"{name.ls}"):
-				print(i)
+			if os.listdir(f"{name.ls}"):
+				for i in os.listdir(f"{name.ls}"):
+					print(i)
+			else:
+				print(f"{name.ls} is empty!")
 		except:
 			print(f"{name.ls} not found!")
 if __name__ == '__main__':
