@@ -80,8 +80,11 @@ def fld(name : str)-> "Name of the folder":
 		for i in os.listdir():
 			print(i)
 	elif name.ls:
-		for i in os.listdir(f"{name.ls}"):
-			print(i)
+		try:
+			for i in os.listdir(f"{name.ls}"):
+				print(i)
+		except:
+			print(f"{name.ls} not found!")
 if __name__ == '__main__':
 	parser = argparse.ArgumentParser()
 	parser.add_argument('-m', type = str,help = "Enter name to make folder")
